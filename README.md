@@ -103,7 +103,7 @@ python distortion_correction.py
 
 #### Video Demo
 
-<video src="D:\3학년 2학기\컴퓨터비전\hw3_camera_calibration\rectified_demo.mp4" controls="controls" muted="muted" style="max-width: 100%;"></video>
+<video src="rectified_demo.mp4" controls="controls" muted="muted" style="max-width: 100%;"></video>
 
 
 ---
