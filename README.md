@@ -30,7 +30,7 @@ A printed chessboard pattern is used to estimate intrinsic camera parameters and
 * `distortion_correction.py` → removes lens distortion
 * `calibration_result.npz` → saved calibration data
 * `rectified_demo.mp4` → distortion correction video
-* `rectified_image.png` → distortion correction image
+* `rectified_demo.png` → distortion correction image
 
 ---
 
@@ -103,8 +103,7 @@ python distortion_correction.py
 
 #### Video Demo
 
-<video src="rectified_demo.mp4" controls="controls" muted="muted" style="max-width: 100%;"></video>
-
+[▶ Watch Rectified Video](https://github.com/Lohannn03/camera_calibration/raw/main/rectified_demo.mp4)
 
 ---
 
